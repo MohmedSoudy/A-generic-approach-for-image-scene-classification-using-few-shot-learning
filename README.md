@@ -1,0 +1,1 @@
+# A-generic-approach-for-image-scene-classification-using-few-shot-learning-
